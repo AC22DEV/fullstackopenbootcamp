@@ -1,6 +1,3 @@
-```markdown
-# 0.5: Single page app diagram (SPA version)
-
 ```mermaid
 sequenceDiagram
     participant browser

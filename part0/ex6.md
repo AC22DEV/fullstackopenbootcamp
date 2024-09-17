@@ -1,6 +1,3 @@
-```markdown
-# 0.6: New note in Single Page App (SPA version)
-
 ```mermaid
 sequenceDiagram
     participant browser
